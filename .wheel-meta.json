@@ -1,21 +1,17 @@
 {
-  "wheel_id": 99,
+  "wheel_id": 69,
+  "structure": "umbrella",
   "slug": "financebrokercentralcoast-102",
-  "project": "refinancing-central-coast-costs-f-102",
-  "parent_t1_ref": "financebrokercentralcoast-002",
+  "project": "home-loans-central-coast-costs-f-102",
+  "parent_t1_ref": "financebrokercentralcoast-001",
   "node_role": "feeder",
   "money_target": "financebrokercentralcoast.com.au",
-  "primary_kw": "refinancing central coast costs",
-  "intended_url": "https://refinancing-central-coast-costs-f-102.s3.ap-southeast-2.amazonaws.com/index.html",
+  "primary_kw": "home loans central coast costs",
+  "intended_url": "https://home-loans-central-coast-costs-f-102.vercel.app/",
   "links": [
     {
-      "target_url": "https://refinancing-central-coast-f-150.pages.dev/",
-      "anchor": "refinancing central coast",
-      "rel": "follow"
-    },
-    {
-      "target_url": "https://refinancing-central-coast-f-150.pages.dev/",
-      "anchor": "refinancing central coast",
+      "target_url": "https://home-loans-central-coast-f-150.surge.sh/",
+      "anchor": "home loans central coast",
       "rel": "follow"
     }
   ]
