@@ -12,4 +12,4 @@ Disallow: /
 User-agent: DotBot
 Disallow: /
 
-Sitemap: https://home-loans-central-coast-costs-f-102.vercel.app/sitemap.xml
+Sitemap: https://vercel-cloudsites-hub.vercel.app/sites-01/home-loans-central-coast-costs-f-102/sitemap.xml
